@@ -2,7 +2,7 @@
 
 This repository contains the implementation of the proposed algorithm in the following paper:
 
-**N. Masuyama, R. Fujii, T. Kinoshita, and Y. Nojima, "A clustering-based sample selection method for improving replay buffer quality in continual self-supervised learning," in *Proc. of the 2025 International Joint Conference on Neural Networks (IJCNN)*, 2025 (Accepted).**
+**N. Masuyama, R. Fujii, T. Kinoshita, and Y. Nojima, "A clustering-based sample selection method for improving replay buffer quality in continual self-supervised learning," <I>in Proc. of the 2025 International Joint Conference on Neural Networks</I> (IJCNN), pp. 1-7, Roma, Italy, June 30 - July 5, 2025.**
 
 
 ## Installation
